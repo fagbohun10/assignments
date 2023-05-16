@@ -1,24 +1,25 @@
 ## Kubernetes, Docker, Containerisation and Virtualisation
 
 Using google and/or Youtube research and report as to why Kubernetes has taken a prominent place in the computing infrastructure in most organisation.
+Kubernetes is a portable, extensible, open source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
 ## Linux administration and shell scripting
 
 Research and report on the structure of Linux Filesystem
 Research of the most used flavour of Linux in the enterprise today
 Describe what each of the following commands does.
-1. mkdir
-2. grep
-3. sudo
-4. useradd
-5. cat
-6. less
-7. mv
-8. rm
-9. cd
-10. ls
-11. pushd
-12. popd
+1. mkdir - mkdir Command helps to create new directories.
+2. grep -Grep command can be used to filter or search text from files or input streams.
+3. sudo - llows a permitted user to execute a command as the superuser or another user, as specified by the security policy
+4. useradd - creates a new user on a linux system. 
+5. cat -reads each File parameter in sequence and writes it to standard output
+6. less - Linux utility which can be used to read contents of text file one page (one screen) per time
+7. mv - moves files and directories from one directory to another or renames a file or directory. 
+8. rm - removes the entries for a specified file, group of files, or certain select files from a list within a directory
+9. cd -It is used to change the current directory of the terminal.
+10. ls -writes to standard output the contents of each specified Directory or the name of each specified File, along with any other information you ask for with the flags.
+11. pushd - used to save the current directory into a stack and move to a new directory.
+12. popd - popd is used to return back to the previous directory that is on top of the stack.
 
 ## CICD, Infrastructure as as Code (IaC), Terraform, Packer and Ansible
 
